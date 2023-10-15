@@ -1,0 +1,17 @@
+1485 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/mvideo/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+9968 [main] INFO  com.ait.demoqa.tests.TestBase - All tests run in Firefox Browser
+15428 [main] INFO  com.ait.demoqa.tests.TestBase - The link --> https://demoqa.com/
+16601 [main] INFO  com.ait.demoqa.tests.TestBase - ==============================
+16601 [main] INFO  com.ait.demoqa.tests.TestBase - Start method --> robotMouseEventTest
+17006 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.xpath: //h5[.='Elements']
+17273 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (37, 665)
+18078 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.xpath: //span[.='Upload and Download']
+18368 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (80, 809)
+19756 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.xpath: //*[@id="uploadFile"]
+19796 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (378, 412)
+19834 [Forwarding actions on session 22072b1c-9bc2-49cf-bf05-9d89c10e7a65 to remote] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.xpath: //*[@id="uploadFile"]
+19873 [Forwarding actions on session 22072b1c-9bc2-49cf-bf05-9d89c10e7a65 to remote] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (378, 412)
+27249 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.id: uploadedFilePath
+27734 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (378, 438)

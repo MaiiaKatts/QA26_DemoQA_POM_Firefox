@@ -1,0 +1,27 @@
+2217 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/mvideo/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+16644 [main] INFO  com.ait.demoqa.tests.TestBase - All tests run in Firefox Browser
+23115 [main] INFO  com.ait.demoqa.tests.TestBase - The link --> https://demoqa.com/
+24129 [main] INFO  com.ait.demoqa.tests.TestBase - ==============================
+24131 [main] INFO  com.ait.demoqa.tests.TestBase - Start method --> loginPositiveTest
+24375 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.xpath: //h5[.='Book Store Application']
+24825 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (37, 1113)
+25823 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.xpath: //span[.='Login']
+26092 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (80, 801)
+26586 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.id: userName
+26697 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (552, 446)
+27019 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.id: userName
+27067 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (552, 446)
+27083 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.id: userName
+27164 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (552, 446)
+27272 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.id: password
+27337 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (552, 492)
+27598 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.id: password
+27636 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (552, 492)
+27654 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.id: password
+27704 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (552, 492)
+27810 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.id: login
+27856 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (852, 554)
+28129 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.id: userName-value
+28599 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (935, 334)

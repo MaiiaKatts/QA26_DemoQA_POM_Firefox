@@ -1,0 +1,45 @@
+2568 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/mvideo/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+10893 [main] INFO  com.ait.demoqa.tests.TestBase - All tests run in Firefox Browser
+14929 [main] INFO  com.ait.demoqa.tests.TestBase - The link --> https://demoqa.com/
+16186 [main] INFO  com.ait.demoqa.tests.TestBase - ==============================
+16186 [main] INFO  com.ait.demoqa.tests.TestBase - Start method --> robotKeyEventTest
+16356 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.xpath: //h5[.='Elements']
+16672 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (37, 665)
+17094 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.xpath: //span[.='Upload and Download']
+17278 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (80, 809)
+18821 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.xpath: //*[@id="uploadFile"]
+18854 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (378, 412)
+18872 [Forwarding actions on session 70ed2510-68b6-4cf7-ba6f-9a996ca82dc0 to remote] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.xpath: //*[@id="uploadFile"]
+18899 [Forwarding actions on session 70ed2510-68b6-4cf7-ba6f-9a996ca82dc0 to remote] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (378, 412)
+21448 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.id: uploadedFilePath
+31482 [main] INFO  com.ait.demoqa.utils.MyListener - We have a problem!
+31483 [main] INFO  com.ait.demoqa.utils.MyListener - Object target --> FirefoxDriver: firefox on mac (70ed2510-68b6-4cf7-ba6f-9a996ca82dc0)
+31483 [main] INFO  com.ait.demoqa.utils.MyListener - =========================================
+31484 [main] INFO  com.ait.demoqa.utils.MyListener - Method name --> findElement
+31484 [main] INFO  com.ait.demoqa.utils.MyListener - =========================================
+31487 [main] INFO  com.ait.demoqa.utils.MyListener - InvocationTargetException --> org.openqa.selenium.NoSuchElementException: Unable to locate element: #uploadedFilePath
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.9', java.version: '17.0.6'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [70ed2510-68b6-4cf7-ba6f-9a996ca82dc0, findElement {using=id, value=uploadedFilePath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 118.0.2, moz:accessibilityChecks: false, moz:buildID: 20231009140911, moz:debuggerAddress: 127.0.0.1:41706, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 21.6.0, moz:processID: 53518, moz:profile: /var/folders/9c/w8_87jgd4s7..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://127.0.0.1:41706/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 70ed2510-68b6-4cf7-ba6f-9a996ca82dc0
+31487 [main] INFO  com.ait.demoqa.utils.MyListener - =========================================
+31488 [main] INFO  com.ait.demoqa.utils.MyListener - Screen with ERROR --> screenshots/screen_ 1556.png
+37206 [main] INFO  com.ait.demoqa.tests.TestBase - All tests run in Firefox Browser
+42109 [main] INFO  com.ait.demoqa.tests.TestBase - The link --> https://demoqa.com/
+42863 [main] INFO  com.ait.demoqa.tests.TestBase - ==============================
+42864 [main] INFO  com.ait.demoqa.tests.TestBase - Start method --> robotMouseEventTest
+42906 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.xpath: //h5[.='Elements']
+43180 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (37, 665)
+44398 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.xpath: //span[.='Upload and Download']
+44977 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (80, 809)
+46379 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.xpath: //*[@id="uploadFile"]
+46411 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (378, 412)
+46421 [Forwarding actions on session ed1883b6-0ab9-4429-91b4-43599cba5685 to remote] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.xpath: //*[@id="uploadFile"]
+46460 [Forwarding actions on session ed1883b6-0ab9-4429-91b4-43599cba5685 to remote] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (378, 412)
+53739 [main] INFO  com.ait.demoqa.utils.MyListener - Find element --> By.id: uploadedFilePath
+54221 [main] INFO  com.ait.demoqa.utils.MyListener - Location of element --> (378, 438)
